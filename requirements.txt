@@ -1,0 +1,12 @@
+google-play-scraper
+pandas
+numpy
+nltk
+PySastrawi
+scikit-learn
+tensorflow>=2.10
+gensim
+matplotlib
+seaborn
+joblib
+wordcloud
